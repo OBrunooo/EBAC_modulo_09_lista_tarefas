@@ -1,0 +1,62 @@
+* {
+    background-color: rgb(193, 221, 245);
+    font-size: 20px;
+    margin: 0 auto;
+    align-items: center;
+    text-align: center;
+}
+
+.container {
+    padding-top: 200px;
+    width: 600px;
+    max-width: 100%;
+    justify-content: space-between;
+}
+
+header h1 {
+    font-size: 60px;
+    margin-bottom: 26px;
+}
+
+form {
+    padding-bottom: 26px;
+}
+
+form input {
+    background-color: white;
+    padding: 3px 16px;
+}
+
+#cadastrar {
+    background-color: rgb(79, 162, 235);
+    padding: 3px;
+    cursor: pointer;
+}
+
+#limpar-lista {
+    background-color: rgb(177, 65, 65);
+    padding: 3px;
+    cursor: pointer;
+}
+
+.lista li{
+    cursor: pointer;;
+    word-wrap:break-word;
+    text-align: left;
+    width: 300px;
+    max-width: 500px;
+    padding-top: 6px;
+}
+
+li a{
+    color: black;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.feito {
+    text-decoration: line-through
+}
+
+
+
